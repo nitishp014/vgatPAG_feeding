@@ -1,4 +1,4 @@
-#vgatPAG_feeding
+# vgatPAG_feeding
 
 This code accompanies the manuscript entitled "Periaqueductal gray GABAergic neurons dynamically promote consumption according to food value". To run, first download the miniscope data: [insert data]
 
